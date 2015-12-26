@@ -1,0 +1,7 @@
+jci_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: JCIBundle:Default:index }
+
+jci_Accueil:
+    path:     /
+    defaults: { _controller: JCIBundle:JCI:Accueil }

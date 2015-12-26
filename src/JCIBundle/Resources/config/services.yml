@@ -1,0 +1,4 @@
+services:
+#    jci.example:
+#        class: JCIBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
